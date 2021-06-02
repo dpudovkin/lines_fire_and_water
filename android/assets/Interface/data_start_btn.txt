@@ -1,0 +1,19 @@
+start_btn.png
+size: 1620, 240
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+down
+  rotate: false
+  xy: 0, 0
+  size: 810, 240
+  orig: 810, 240
+  offset: 0, 0
+  index: -1
+up
+  rotate: false
+  xy: 810, 0
+  size: 810, 240
+  orig: 810, 240
+  offset: 0, 0
+  index: -1

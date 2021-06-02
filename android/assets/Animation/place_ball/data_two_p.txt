@@ -1,0 +1,82 @@
+data_two_p.png
+size: 1800, 600
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+36
+  rotate: false
+  xy: 0, 0
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+37
+  rotate: false
+  xy: 300, 0
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+38
+  rotate: false
+  xy: 600, 0
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+39
+  rotate: false
+  xy: 900, 0
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+40
+  rotate: false
+  xy: 1200, 0
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+41
+  rotate: false
+  xy: 1500, 0
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+42
+  rotate: false
+  xy: 0, 300
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+43
+  rotate: false
+  xy: 300, 300
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+44
+  rotate: false
+  xy: 600, 300
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+45
+  rotate: false
+  xy: 900, 300
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+46
+  rotate: false
+  xy: 1200, 300
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1

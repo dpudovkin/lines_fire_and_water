@@ -1,0 +1,19 @@
+data_menu_btn.png
+size: 720, 240
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+down
+  rotate: false
+  xy: 0, 0
+  size: 360, 240
+  orig: 360, 240
+  offset: 0, 0
+  index: -1
+up
+  rotate: false
+  xy: 360, 0
+  size: 360, 240
+  orig: 360, 240
+  offset: 0, 0
+  index: -1

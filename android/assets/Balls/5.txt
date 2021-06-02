@@ -1,0 +1,1 @@
+Acid is neutralized in water, but it is capable of destroying metal and wood. When interacting with a fireball, they are mutually destroyed.

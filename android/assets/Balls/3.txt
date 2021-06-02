@@ -1,0 +1,1 @@
+This ball interacts only with the metal, pushing it away. In other cases it is destroyed in a collision.

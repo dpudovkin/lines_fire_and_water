@@ -1,0 +1,19 @@
+next_button.png
+size: 1080, 260
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+down
+  rotate: false
+  xy: 0, 0
+  size: 540, 260
+  orig: 540, 260
+  offset: 0, 0
+  index: -1
+up
+  rotate: false
+  xy: 540, 0
+  size: 540, 260
+  orig: 540, 260
+  offset: 0, 0
+  index: -1
